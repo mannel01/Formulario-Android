@@ -1,1 +1,2 @@
-Projetos e aplicações pequenas feitas para dispositivos móveis, usando Android Studio.
+Um formulário simples feito para dispositivos móveis, usando Android Studio.
+Consiste em praticar o compartilhamento de informações entre telas.
